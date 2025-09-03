@@ -41,5 +41,3 @@ I’m a simple person passionate about **Cybersecurity** and **Bug Bounty**. Foc
 ![MDEdge](https://img.shields.io/badge/MDEdge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)
 ![Porsche](https://img.shields.io/badge/Porsche-E5A823?style=for-the-badge&logo=porsche&logoColor=black)
 ![Mercedes-Benz](https://img.shields.io/badge/Mercedes--Benz-000000?style=for-the-badge&logo=mercedes&logoColor=white)
-![NASA](https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
-![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=tesla&logoColor=white)
